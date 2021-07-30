@@ -73,7 +73,7 @@ export const ContentItems = [
     contentPosition: 'middle',
     Items: [
       {
-        Name: 'Pobe.Fransis',
+        Name: 'Pope.Francis',
         Image:
           'https://github.com/mjashley-academy/mangala-annai-church/blob/04-hp-carousel-section/app/components/HeroBanner/images/pope.png?raw=true',
       },
